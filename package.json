@@ -1,11 +1,11 @@
 {
   "name": "homebroker",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --o",
     "build": "ng build",
-    "deploy": "ng deploy --base-href=https://FJZ-Z.github.io/bootcampFront/",
+    "deploy": "ng deploy --base-href https://FJZ-Z.github.io/bootcampFront/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
